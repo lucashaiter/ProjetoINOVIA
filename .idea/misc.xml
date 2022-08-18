@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_decima_pri_tela.xml" value="0.1841880341880342" />
+        <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_decima_quar_tela.xml" value="0.1841880341880342" />
+        <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_decima_quin_tela.xml" value="0.1841880341880342" />
+        <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_decima_seg_tela.xml" value="0.1841880341880342" />
+        <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_decima_sex_tela.xml" value="0.1841880341880342" />
+        <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_decima_tela.xml" value="0.1841880341880342" />
+        <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_decima_terc_tela.xml" value="0.17264957264957265" />
+        <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_nona_tela.xml" value="0.25" />
+        <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_oitava_tela.xml" value="0.1841880341880342" />
+        <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_quarta_tela.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_quinta_tela.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_segunda_tela.xml" value="0.22" />
+        <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_setima_tela.xml" value="0.16025641025641027" />
+        <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_sexta_tela.xml" value="0.18426678067550234" />
+        <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_terceira_tela.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
