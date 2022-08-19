@@ -18,6 +18,18 @@
         android:theme="@style/Theme.Projeto"
         tools:targetApi="31">
         <activity
+            android:name=".VigTela"
+            android:exported="false" />
+        <activity
+            android:name=".DecimaNonTela"
+            android:exported="false" />
+        <activity
+            android:name=".DecimaOitavaTela"
+            android:exported="false" />
+        <activity
+            android:name=".DecimaSetTela"
+            android:exported="false" />
+        <activity
             android:name=".DecimaSexTela"
             android:exported="false" />
         <activity

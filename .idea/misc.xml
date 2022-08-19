@@ -3,10 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_decima_non_tela.xml" value="0.17264957264957265" />
+        <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_decima_oitava_tela.xml" value="0.1841880341880342" />
         <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_decima_pri_tela.xml" value="0.1841880341880342" />
         <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_decima_quar_tela.xml" value="0.1841880341880342" />
         <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_decima_quin_tela.xml" value="0.1841880341880342" />
         <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_decima_seg_tela.xml" value="0.1841880341880342" />
+        <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_decima_set_tela.xml" value="0.1841880341880342" />
         <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_decima_sex_tela.xml" value="0.1841880341880342" />
         <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_decima_tela.xml" value="0.1841880341880342" />
         <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_decima_terc_tela.xml" value="0.17264957264957265" />
@@ -19,6 +22,7 @@
         <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_setima_tela.xml" value="0.16025641025641027" />
         <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_sexta_tela.xml" value="0.18426678067550234" />
         <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_terceira_tela.xml" value="0.22" />
+        <entry key="..\:/Users/Israel/AndroidStudioProjects/Projeto/app/src/main/res/layout/activity_vig_tela.xml" value="0.1841880341880342" />
       </map>
     </option>
   </component>

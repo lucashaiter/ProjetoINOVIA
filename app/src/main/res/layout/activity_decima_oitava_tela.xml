@@ -5,10 +5,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#00E2FF"
-    tools:context=".DecimaSexTela">
+    tools:context=".DecimaOitavaTela">
 
     <ToggleButton
-        android:id="@+id/toggleButton4"
+        android:id="@+id/toggleButton9"
         android:layout_width="122dp"
         android:layout_height="58dp"
         android:text="Ola"
@@ -22,7 +22,7 @@
         app:layout_constraintVertical_bias="0.846" />
 
     <ToggleButton
-        android:id="@+id/toggleButton3"
+        android:id="@+id/toggleButton10"
         android:layout_width="116dp"
         android:layout_height="65dp"
         android:text="Ola"
@@ -36,7 +36,7 @@
         app:layout_constraintVertical_bias="0.764" />
 
     <Button
-        android:id="@+id/btncontinuar8"
+        android:id="@+id/btncontinuar10"
         android:layout_width="348dp"
         android:layout_height="67dp"
         android:text="Continuar"
@@ -48,9 +48,9 @@
         app:layout_constraintVertical_bias="0.978" />
 
     <ImageView
-        android:id="@+id/imggato5"
-        android:layout_width="245dp"
-        android:layout_height="289dp"
+        android:id="@+id/imggato7"
+        android:layout_width="262dp"
+        android:layout_height="255dp"
         android:contentDescription="@string/app_name"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -61,7 +61,7 @@
         tools:srcCompat="@tools:sample/avatars" />
 
     <Button
-        android:id="@+id/btncamera5"
+        android:id="@+id/btncamera7"
         android:layout_width="144dp"
         android:layout_height="96dp"
         android:text="Tirar Foto"
@@ -73,7 +73,7 @@
         app:layout_constraintVertical_bias="0.65" />
 
     <View
-        android:id="@+id/divider23"
+        android:id="@+id/divider25"
         android:layout_width="426dp"
         android:layout_height="7dp"
         android:background="?android:attr/listDivider"
@@ -85,7 +85,7 @@
         app:layout_constraintVertical_bias="0.883" />
 
     <ToggleButton
-        android:id="@+id/toggleButton"
+        android:id="@+id/toggleButton11"
         android:layout_width="116dp"
         android:layout_height="49dp"
         android:text="Ola"
@@ -99,7 +99,7 @@
         app:layout_constraintVertical_bias="0.85" />
 
     <ToggleButton
-        android:id="@+id/toggleButton2"
+        android:id="@+id/toggleButton12"
         android:layout_width="115dp"
         android:layout_height="54dp"
         android:text="Ola"
@@ -113,15 +113,14 @@
         app:layout_constraintVertical_bias="0.752" />
 
     <TextView
-        android:id="@+id/textView80"
+        android:id="@+id/textView78"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="1/4"
+        android:text="3/4"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.054" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>
